@@ -3,7 +3,7 @@
 > PCR-Primer automatisch entwerfen **und** gegen echte Bevölkerungs-Variation
 > (gnomAD / ClinVar) absichern – damit kein Primer auf einer polymorphen Stelle sitzt.
 
-**Live-Demo:** _(nach Deploy hier eintragen)_
+**▶️ Live-Demo:** **[asav-primer-suite.streamlit.app](https://asav-primer-suite-84dxtxt3chmka6djabtlnv.streamlit.app/)**
 **Stack:** Python · Streamlit · primer3 · Biopython · Ensembl REST · NCBI BLAST
 
 Werkzeug zum **Design und zur Validierung von PCR-Primern** auf Basis echter
