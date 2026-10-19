@@ -1,0 +1,12 @@
+# ASAV Pro – Laufzeit-Abhängigkeiten (Python 3.11+ empfohlen)
+# Installation:  python -m venv venv && venv/Scripts/pip install -r requirements.txt
+streamlit==1.52.1
+biopython==1.86
+primer3-py==2.3.0
+pandas==2.3.3
+plotly==6.7.0
+requests==2.32.5
+tenacity==9.1.2
+
+# Entwicklung / Tests
+pytest==9.0.3

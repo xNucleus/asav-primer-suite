@@ -1,0 +1,22 @@
+# Virtuelle Umgebung
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Lokale Daten-Dumps / Caches (werden zur Laufzeit aus Ensembl regeneriert)
+legacy/
+.asav_cache/
+*.log
+cache_*.json
+mutations.json
+gene_sequence.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
