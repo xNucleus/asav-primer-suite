@@ -1,5 +1,7 @@
 # ASAV Pro – SNP-Aware Primer Suite
 
+[![tests](https://github.com/xNucleus/asav-primer-suite/actions/workflows/tests.yml/badge.svg)](https://github.com/xNucleus/asav-primer-suite/actions/workflows/tests.yml)
+
 > PCR-Primer automatisch entwerfen **und** gegen echte Bevölkerungs-Variation
 > (gnomAD / ClinVar) absichern – damit kein Primer auf einer polymorphen Stelle sitzt.
 
